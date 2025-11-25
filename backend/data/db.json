@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "G-ih2Q9os2-jn1x3ee3Gp",
+      "username": "admin",
+      "passwordHash": "$2b$10$TpxEKDMgt6Xfk0p/d82weOAXtCyz5KJNfAwNHLG94ItK.3QVEbfxi",
+      "role": "admin",
+      "validated": true,
+      "signedUpAt": "2025-10-17T18:08:47.336Z"
+    },
+    {
+      "id": "KJ8nABi1C6mzzNSRKabnD",
+      "username": "nabil",
+      "passwordHash": "$2b$10$So/N3Ke/uYH/o67jK0hbo.OgOnLAEe5RAgp3HMK/5Lv5eJuTKcoLi",
+      "role": "user",
+      "validated": true,
+      "signedUpAt": "2025-10-12T13:59:01.379Z"
+    },
+    {
+      "id": "yPSFROl64Pv76gaKTJsiS",
+      "username": "carlos",
+      "passwordHash": "$2b$10$by.CCfTDCUuYAvSaU9U6COmFXiepwOLPxDl22/yOQASaP5KKdWHoO",
+      "role": "user",
+      "validated": true,
+      "signedUpAt": "2025-10-12T13:59:01.432Z"
+    },
+    {
+      "id": "exk1UqWtnZxqodG4uLE-U",
+      "username": "maha",
+      "passwordHash": "$2b$10$q69NH/6g8PgW2sgCK75qGugCUaCmjCAYvafJBSxWLworcrknXEgC2",
+      "role": "user",
+      "validated": true,
+      "signedUpAt": "2025-10-17T12:28:00.004Z"
+    }
+  ],
+  "itemsByUserId": {
+    "KJ8nABi1C6mzzNSRKabnD": [
+      {
+        "id": "CbQsXTW4_ZZy5T260kcZu",
+        "text": "Welcome to your list"
+      },
+      {
+        "id": "aOZ17koT8iAQrGhxsvDVw",
+        "text": "abc 123 nf"
+      },
+      {
+        "id": "R9jm8LVRxCuBe9WbEBzUD",
+        "text": "hello darkness my old friend"
+      },
+      {
+        "id": "Np0AB6lW_mmnpVqa_Bf-O",
+        "text": "And they called it"
+      }
+    ],
+    "yPSFROl64Pv76gaKTJsiS": [
+      {
+        "id": "kLNZHg5j7ZTA7G7Zz081U",
+        "text": "Welcome to your list"
+      },
+      {
+        "id": "D29HYhMhGl01de03dv8US",
+        "text": "First added item for Carlos"
+      }
+    ],
+    "exk1UqWtnZxqodG4uLE-U": [
+      {
+        "id": "eEaDn_lNiNKLyuKUmviic",
+        "text": "hello world"
+      },
+      {
+        "id": "dhSglxL1UdV-c-V6buNra",
+        "text": "This little light of mine"
+      }
+    ]
+  }
+}
